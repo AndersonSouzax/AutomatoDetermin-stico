@@ -40,6 +40,6 @@ else
 	puts "\n"
 end
     puts "\n"
-    puts "sair? digite algo maior que zero, continuar? outra tecla"
+    puts "sair? digite algo diferente de zero, continuar? outra tecla"
     hold = gets.chomp.to_i
 end
