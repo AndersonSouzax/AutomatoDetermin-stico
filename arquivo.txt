@@ -1,0 +1,7 @@
+a,b      /* alfabeto do autômato*/
+4        /* número de estados*/
+0a1,1b2,2b3,3b3,3a4,4a1 /* matriz de transição */
+0       /* estado inicial */
+3,4     /* estados finais */
+
+/*retirar os comentários do arquivo se não dá problema haha :) */
